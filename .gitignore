@@ -1,0 +1,12 @@
+# Credenciais — nunca versionar
+.env
+
+# Reports HTML gerados pelos agentes (saída gerada, não código-fonte)
+reports/
+
+# Artefatos Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
